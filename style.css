@@ -9,12 +9,12 @@ body {
 svg {
   width: 50vw;
   height: 100%;
-  opacity: 10%;
+  /* opacity: 10%; */
 }
 
 .clock-face {
   stroke: #333;
-  fill: white;
+  fill: #111;
 }
 
 .minor {
