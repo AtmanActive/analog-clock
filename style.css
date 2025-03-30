@@ -19,12 +19,12 @@ svg {
 }
 
 .minor {
-  stroke: #999;
+  stroke: #555500;
   stroke-width: 0.5;
 }
 
 .major {
-  stroke: #333;
+  stroke: #440044;
   stroke-width: 1;
 }
 
@@ -33,7 +33,7 @@ svg {
 }
 
 .minute {
-  stroke: #666;
+  stroke: #444;
 }
 
 .second-hand,
