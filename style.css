@@ -9,6 +9,7 @@ body {
 svg {
   width: 50vw;
   height: 100%;
+  opacity: 10%;
 }
 
 .clock-face {
